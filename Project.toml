@@ -1,0 +1,7 @@
+name = "JoyConHandler"
+uuid = "d1dc6aa4-1e2d-4ff1-a7e1-a56c946413cd"
+authors = ["soyukke <soyukke@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+HidApi = "39e74766-396e-420b-955c-dcb1d9319e05"
