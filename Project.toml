@@ -5,3 +5,4 @@ version = "0.1.0"
 
 [deps]
 HidApi = "39e74766-396e-420b-955c-dcb1d9319e05"
+JuliaFormatter = "98e50ef6-434e-11e9-1051-2b60c6c9e899"
